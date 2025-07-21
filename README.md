@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thehimalayandevs712" alt="thehimalayandevs712" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [himalayandevsportfolio.netlify.app/](himalayandevsportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [himalayandevsportfolio.netlify.app/](himalayandevsportfolio.netlify.app)
 
 - 📫 How to reach me **thehimalayandevs712@gmail.com**
 
